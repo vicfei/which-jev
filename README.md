@@ -34,7 +34,7 @@ Seats we want next (propose via issue): context compaction (keep-or-drop), routi
 
 ## Status
 
-v0 skeleton (2026-11-16): registry, ground rules, suite #0 linked, suite #1 chartered. Runner + first leaderboard land next. Contributions start with an issue: describe your scenario and the decision it should settle.
+v0 skeleton (2026-11-18): registry, ground rules, suite #0 linked, suite #1 chartered. Runner + first leaderboard land next. Contributions start with an issue: describe your scenario and the decision it should settle.
 
 ## License
 
