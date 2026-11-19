@@ -1,5 +1,8 @@
 # which-jev
 
+> **已并入（2026-11-18）：**场景榜单程序——suite 登记表、地面规则与场景卡——现收录于 [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts/blob/main/README.zh-CN.md#which-jev按场景选引擎)。本仓封存备用，作为未来某条 suite 需要 runner 代码时的落点；在此之前不再积极开发。
+
+
 > 按场景选决策引擎，而不是按聚合分。[English](README.md)
 
 Jev 类决策模型为速度而生，尺寸又约束了通用性——没有哪台引擎能通吃所有位置。聚合指数（Jev Decision Index、Artificial Analysis v2）回答"谁最聪明"；**which-jev** 回答"**这个场景、这个延迟与成本预算下，用哪台**"。

@@ -1,5 +1,8 @@
 # which-jev
 
+> **Consolidated (2026-11-18):** the scenario-leaderboard program — suite registry, ground rules, and the cards — now lives inside [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts#which-jev--pick-an-engine-by-scenario). This repo is shelved as the future home for runner/harness code once a suite needs one; until then it is not actively developed.
+
+
 > Pick a decision engine by scenario, not by aggregate score. [中文版](README.zh-CN.md)
 
 Jev-class decision models are sized for speed, and size bounds generality — no single engine wins every seat. Aggregate indices (Jev Decision Index, Artificial Analysis v2) answer "which model is smartest"; **which-jev** answers "**which engine fits this scenario, under this latency and cost budget**".
